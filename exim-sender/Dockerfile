@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 
 RUN apt-get update && sudo apt-get -y upgrade
 RUN apt-get install -y exim4
