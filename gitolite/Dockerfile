@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:groovy-20210416
 
 MAINTAINER Mike Gardiner <conversationing@gmail.com>
 
